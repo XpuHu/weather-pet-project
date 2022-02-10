@@ -1,0 +1,9 @@
+.my_flex {
+    display: flex;
+    /*flex-gap: 1;*/
+    /*flex-grow: 1;*/
+    flex-basis: 33.33%;
+    justify-content: center;
+}
+
+
