@@ -21,7 +21,7 @@ const CityCardGrid = (props) => {
                <div className='text-xl md:row-start-2 md:col-start-2 md:col-span-2'>{ details }</div>
                <div className='md:col-start-1 md:row-start-2 mt-3 text-sm md:m-0'>
                   Feels like
-                  <div className="after:content-['\00B0']">{ feels }</div>
+                  <div className='after:content-["\00B0"]'>{ feels }</div>
                </div>
                <div
                   className='row-span-2 md:row-start-1 md:col-start-2 md:col-span-2 md:self-start md:justify-self-center w-16'>
