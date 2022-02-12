@@ -43,8 +43,8 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "tailwind.config.js",
-  "author": "",
+  "author": "XpuHu <ecaterinacovali93@gmail.com>",
   "license": "ISC",
-    "@architect/sandbox": "^4.5.2"
-  }
-
+  "@architect/sandbox": "^4.5.2",
+  "repository": "https://github.com/XpuHu/weather-pet-project.git"
+}
